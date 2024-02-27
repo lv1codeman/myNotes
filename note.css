@@ -1,0 +1,10 @@
+html,
+body {
+  height: 100%;
+  padding: 0;
+  background-color: rgb(209, 220, 231);
+}
+
+.noteContainer {
+  padding: 2rem;
+}
