@@ -5,13 +5,13 @@
 + Apply *vite*  
   Create a folder in VScode and open terminal.  
 + Steps to setup vite  
->1. `npm create vite@latest`  
+1. `npm create vite@latest`  
 enter project name  
 select react  
 select javascript  
->2. `cd [project name]`  
->3. `npm install`  
->4. `npm run dev`  
+2. `cd [project name]`  
+3. `npm install`  
+4. `npm run dev`  
 ---
 ## What we have now
 - **node_modules** packages, library  
