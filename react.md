@@ -13,7 +13,7 @@ select javascript
 3. `npm install`  
 4. `npm run dev`  
 ---
-## What we have now
+## What we have now  
 - **node_modules** packages, library  
 - **public** public assets: images  
 - **src** source folder  
